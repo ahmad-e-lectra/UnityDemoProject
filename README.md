@@ -1,4 +1,4 @@
-![autogenConfigOutTest12](https://github.com/user-attachments/assets/5d4eebf2-a019-4b95-a1f2-1f2290660848)# UNITY DEMO Stub Approach
+# UNITY DEMO Stub Approach
 
 ***Ceedling Project Creation:***  
 
