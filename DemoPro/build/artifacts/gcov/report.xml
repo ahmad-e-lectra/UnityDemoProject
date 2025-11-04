@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<TestRun>
+	<FailedTests/>
+	<SuccessfulTests>
+		<Test id="1">
+			<Name>/test/test_random.c::test_LedTwitch_should_turn_on_led_with_1s_delay</Name>
+		</Test>
+		<Test id="2">
+			<Name>/test/test_random.c::test_LedTwitch_should_turn_off_led_with_1s_delay</Name>
+		</Test>
+		<Test id="3">
+			<Name>/test/test_random.c::test_random_blinkusecase</Name>
+		</Test>
+		<Test id="4">
+			<Name>/test/test_random.c::test_LedTwitch_offusecase</Name>
+		</Test>
+		<Test id="5">
+			<Name>/test/test_random.c::test_LedTwitch_onusecase</Name>
+		</Test>
+		<Test id="6">
+			<Name>/test/test_random.c::test_LedTwitch_startusecase</Name>
+		</Test>
+		<Test id="7">
+			<Name>/test/test_random.c::test_LedTwitch_stopusecase</Name>
+		</Test>
+	</SuccessfulTests>
+	<IgnoredTests>
+		<Test id="8">
+			<Name>/test/test_random.c::test_random_NeedToImplement</Name>
+		</Test>
+	</IgnoredTests>
+	<Statistics>
+		<Tests>8</Tests>
+		<Ignores>1</Ignores>
+		<FailuresTotal>0</FailuresTotal>
+		<Errors>0</Errors>
+		<Failures>0</Failures>
+	</Statistics>
+</TestRun>

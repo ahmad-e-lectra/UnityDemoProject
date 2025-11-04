@@ -1,0 +1,47 @@
+---
+:source:
+  :file: test/test_random.c
+  :dirname: test
+  :basename: test_random.c
+:successes:
+- :test: test_LedTwitch_should_turn_on_led_with_1s_delay
+  :line: 27
+  :message: ''
+  :unity_test_time: 0
+- :test: test_LedTwitch_should_turn_off_led_with_1s_delay
+  :line: 35
+  :message: ''
+  :unity_test_time: 0
+- :test: test_random_blinkusecase
+  :line: 44
+  :message: ''
+  :unity_test_time: 0
+- :test: test_LedTwitch_offusecase
+  :line: 50
+  :message: ''
+  :unity_test_time: 0
+- :test: test_LedTwitch_onusecase
+  :line: 56
+  :message: ''
+  :unity_test_time: 0
+- :test: test_LedTwitch_startusecase
+  :line: 62
+  :message: ''
+  :unity_test_time: 0
+- :test: test_LedTwitch_stopusecase
+  :line: 68
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores:
+- :test: test_random_NeedToImplement
+  :line: 20
+  :message: Need to Implement random
+  :unity_test_time: 0
+:counts:
+  :total: 8
+  :passed: 7
+  :failed: 0
+  :ignored: 1
+:stdout: []
+:time: 0.08988029998727143
